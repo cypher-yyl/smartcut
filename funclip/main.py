@@ -1,6 +1,6 @@
 """
 基础版本 + 语义理解与摘要|SemanticAnalysis + 通过URL下载视频（模块化）
-此版本未结合：语义理解与摘要|SemanticAnalysisLLM 智能裁剪｜LLM Clipping
+此版本未结合：语义理解与摘要|SemanticAnalysisLLM + 智能裁剪｜LLM Clipping
 """
 
 
